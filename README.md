@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hello, I am Ola 🤙
+
+### :point_right: Right now
+- :mortar_board: Studying my second year of software engineering at OsloMet
+- :snake: Learning more Python
+- 🚩 Doing CTF challenges
+- :golf: Playing golf
+- :guitar: Playing guitar
+
+
+### 🔜 My future plans
+- :triangular_ruler: Applying for a master's degree at NTNU
+
 
 <!--
 **olagberg/olagberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
