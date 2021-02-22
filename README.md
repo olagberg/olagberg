@@ -2,7 +2,7 @@
 
 ### :point_right: Right now
 - :mortar_board: Studying my second year of software engineering at OsloMet
-- :snake: Learning more Python
+- :snake: Currently learning more python
 - 🚩 Doing CTF challenges
 - :golf: Playing golf
 - :guitar: Playing guitar
