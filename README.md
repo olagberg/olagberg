@@ -11,8 +11,13 @@
 ### 🔜 My future plans
 - :triangular_ruler: Applying for a master's degree at NTNU
 
-### Some of my toolbox
-<img src="https://user-images.githubusercontent.com/55551449/108740124-9fd22d00-7535-11eb-8fb8-4afde22b3aaa.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/55551449/108740115-9e086980-7535-11eb-8209-b268065c8956.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/55551449/108740566-1707c100-7536-11eb-849a-d10e1f9d8201.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/55551449/108741600-305d3d00-7537-11eb-88df-439a1ee85ba9.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/55551449/108742889-84b4ec80-7538-11eb-9aee-6e2d0a0b7819.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/55551449/108742450-fe98a600-7537-11eb-952c-837b66be45bb.png" width="15%"></img> 
+### :hammer_and_wrench: Some of my tools
+<a href="https://www.oracle.com/java/technologies/java-se-glance.html"><img alt="java" src="https://user-images.githubusercontent.com/55551449/108740124-9fd22d00-7535-11eb-8fb8-4afde22b3aaa.png" width="15%"></img></a>
+<a href="https://www.python.org"><img alt="python" src="https://user-images.githubusercontent.com/55551449/108740115-9e086980-7535-11eb-8209-b268065c8956.png" width="15%"></img></a>
+<a href="https://html.spec.whatwg.org"><img alt="HTML5" src="https://user-images.githubusercontent.com/55551449/108740566-1707c100-7536-11eb-849a-d10e1f9d8201.png" width="15%"></img></a>
+<a href="http://typescriptlang.org"><img alt="TypeScript" src="https://user-images.githubusercontent.com/55551449/108741600-305d3d00-7537-11eb-88df-439a1ee85ba9.png" width="15%"></img></a>
+<a href="https://www.mathworks.com/products/matlab.html"><img alt="MATLAB" src="https://user-images.githubusercontent.com/55551449/108742889-84b4ec80-7538-11eb-9aee-6e2d0a0b7819.png" width="15%"></img></a>
+<a href="https://www.gnu.org/software/bash/"><img alt="BASH" src="https://user-images.githubusercontent.com/55551449/108742450-fe98a600-7537-11eb-952c-837b66be45bb.png" width="15%"></img></a>
 
 <!--
 **olagberg/olagberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
