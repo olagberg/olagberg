@@ -4,9 +4,12 @@
 - :mortar_board: Studying my second year of software engineering at OsloMet
 - :snake: Currently learning more python
 - 🚩 Doing CTF challenges
-- :golf: Playing golf
-- :guitar: Playing guitar
 
+### 🏌️ Hobbies 
+- ⚡ Technology
+- :golf: Playing golf
+- :guitar: Guitar and live concerts
+- 🏎️ Formula 1
 
 ### 🔜 My future plans
 - :triangular_ruler: Applying for a master's degree at NTNU
