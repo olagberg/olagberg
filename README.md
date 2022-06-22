@@ -2,6 +2,7 @@
 
 ### :point_right: Right now
 - :mortar_board: Graduated Software Engineering at OsloMet, 2022
+- :office: Summer internship at SpareBank 1 Utvikling
 - :snake: Currently learning more python
 - 🚩 Doing CTF challenges
 
