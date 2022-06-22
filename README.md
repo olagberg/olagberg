@@ -1,7 +1,7 @@
 ## Hello, I am Ola 🤙
 
 ### :point_right: Right now
-- :mortar_board: Studying my third year of software engineering at OsloMet
+- :mortar_board: Graduated Software Engineering at OsloMet, 2022
 - :snake: Currently learning more python
 - 🚩 Doing CTF challenges
 
