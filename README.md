@@ -1,19 +1,17 @@
-## Hello, I am Ola 🤙
+## Hello, I am Ola :call_me_hand:
 
 ### :point_right: Right now
+- :student: MSc student in Computer Science at NTNU, 2022 - 2024
 - :mortar_board: Graduated Software Engineering at OsloMet, 2022
 - :office: Summer internship at SpareBank 1 Utvikling
 - :snake: Currently learning more python
-- 🚩 Doing CTF challenges
+- :triangular_flag_on_post: Doing CTF challenges
 
-### 🏌️ Hobbies 
-- ⚡ Technology
+### :golfing: Hobbies 
+- :zap: Technology
 - :golf: Playing golf
 - :guitar: Guitar and live concerts
-- 🏎️ Formula 1
-
-### 🔜 My future plans
-- :triangular_ruler: Applying for a master's degree at NTNU
+- :racing_car: Formula 1
 
 ### :hammer_and_wrench: Some of my tools
 <a href="https://www.oracle.com/java/technologies/java-se-glance.html"><img alt="java" src="https://user-images.githubusercontent.com/55551449/108740124-9fd22d00-7535-11eb-8fb8-4afde22b3aaa.png" width="15%"></img></a>
@@ -36,4 +34,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### :soon: My future plans
+- :triangular_ruler: 
 -->
