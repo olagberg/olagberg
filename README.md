@@ -18,7 +18,7 @@
 <a href="https://www.docker.com"><img alt="docker" src="https://user-images.githubusercontent.com/55551449/199608163-603344e1-3224-436e-9611-e03d2a1a71c5.png" width="15%"></img></a>
 <a href="http://typescriptlang.org"><img alt="TypeScript" src="https://user-images.githubusercontent.com/55551449/108741600-305d3d00-7537-11eb-88df-439a1ee85ba9.png" width="15%"></img></a>
 <a href="https://playwright.dev/"><img alt="Playwright" src="https://user-images.githubusercontent.com/55551449/199608826-a9c5cdc5-68b8-4972-b403-26f3133a556b.png" width="15%"></img></a>
-<a href="https://www.mathworks.com/products/matlab.html"><img alt="MATLAB" src="https://user-images.githubusercontent.com/55551449/108742889-84b4ec80-7538-11eb-9aee-6e2d0a0b7819.png" width="15%"></img></a>
+<a href="https://svelte.dev/"><img alt="Svelte" src="https://user-images.githubusercontent.com/55551449/199609269-088326af-bba6-41bc-854d-c1e4df8620fb.png" width="15%"></img></a>
 <a href="https://www.gnu.org/software/bash/"><img alt="BASH" src="https://user-images.githubusercontent.com/55551449/108742450-fe98a600-7537-11eb-952c-837b66be45bb.png" width="15%"></img></a>
 
 <!--
