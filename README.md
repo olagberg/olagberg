@@ -5,7 +5,7 @@
 - :mortar_board: Graduated Software Engineering at OsloMet, 2022
 - :office: Working part time as developer at SpareBank 1 Utvikling, 2022
 - :juggling_person: Currently learning more about Playwright and npm packages
-- :triangular_flag_on_post: Waiting for NPST 2022
+- :triangular_flag_on_post: Waiting for NPST Easter 2023
 
 ### :golfing: Hobbies 
 - :zap: Technology
