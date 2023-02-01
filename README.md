@@ -4,7 +4,8 @@
 - :student: MSc student in Computer Science at NTNU, 2022 - 2024
 - :mortar_board: Graduated Software Engineering at OsloMet, 2022
 - :office: Working part time as developer at SpareBank 1 Utvikling, 2022
-- :juggling_person: Currently learning more about Playwright and npm packages
+- :juggling_person: Currently learning more about Playwright, XML, military tactics and npm packages
+- :crab: The future of web is PHP
 - :triangular_flag_on_post: Waiting for NPST Easter 2023
 
 ### :golfing: Hobbies 
@@ -12,6 +13,7 @@
 - :golf: Playing golf
 - :guitar: Guitar and live concerts
 - :racing_car: Formula 1
+- :airplane: Military drone surveillance of civilians
 
 ### :hammer_and_wrench:
 <a href="https://svelte.dev/"><img alt="Svelte" src="https://user-images.githubusercontent.com/55551449/199609269-088326af-bba6-41bc-854d-c1e4df8620fb.png" width="15%"></img></a>
