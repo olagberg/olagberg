@@ -2,8 +2,8 @@
 
 ### :point_right: Right now
 - :student: MSc student in Computer Science at NTNU, 2022 - 2024
-- :mortar_board: Graduated Software Engineering at OsloMet, 2022
-- :office: Working part time as developer at SpareBank 1 Utvikling, 2022
+- :mortar_board: Graduated Software Engineering at OsloMet
+- :office: Working part time as developer at SpareBank 1 Utvikling
 - :juggling_person: Currently working on Playwright
 - :triangular_flag_on_post: Waiting for NPST Easter 2023
 
