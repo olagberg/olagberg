@@ -3,7 +3,7 @@
 ### :point_right: Right now
 - :student: MSc student in Computer Science at NTNU, 2022 - 2024
 - :mortar_board: Graduated Software Engineering at OsloMet
-- :triangular_flag_on_post: Waiting for NPST Easter 2023
+- :bank: Working at SpareBank 1 Utvikling
 
 ### :golfing: Hobbies 
 - :zap: Technology
