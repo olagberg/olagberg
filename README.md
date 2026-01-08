@@ -1,5 +1,6 @@
 ## Hello, I am Ola :call_me_hand:
 
+<!--
 ### :point_right: Right now
 - :student: MSc student in Computer Science at NTNU, 2022 - 2024
 - :mortar_board: Graduated Software Engineering at OsloMet
@@ -9,7 +10,8 @@
 - :zap: Technology
 - :golf: Playing golf
 - :guitar: Guitar and live concerts
-- :racing_car: Formula 1
+- :racing_car: Formula 1 
+-->
 
 <!--
 ### :hammer_and_wrench:
