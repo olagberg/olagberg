@@ -1,6 +1,7 @@
+<!--
 ## Hello, I am Ola :call_me_hand:
 
-<!--
+
 ### :point_right: Right now
 - :student: MSc student in Computer Science at NTNU, 2022 - 2024
 - :mortar_board: Graduated Software Engineering at OsloMet
